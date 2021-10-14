@@ -1,0 +1,18 @@
+.col {
+    width: 1px;
+    aspect-ratio: 1/1;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.white {
+    background-color: white;
+}
+
+
